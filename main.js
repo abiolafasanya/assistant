@@ -3,7 +3,6 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 // import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader';
-import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader';
 
 window.addEventListener('load', function () {
   // Create Scene
